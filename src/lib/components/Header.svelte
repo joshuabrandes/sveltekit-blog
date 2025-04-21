@@ -34,7 +34,7 @@
         transform: translateY(-50%); /* Precise vertical centering */
 
         /* Size adapts to header height (determined by centered-content or min-height) */
-        max-height: 80%; /* Use slightly less than 100% of header height for padding */
+        max-height: 70%; /* Use slightly less than 100% of header height for padding */
         height: auto; /* Maintain aspect ratio */
         width: auto; /* Maintain aspect ratio */
         object-fit: contain;
